@@ -1,10 +1,11 @@
-# Libs
+# Machine learning and Data Analysis
+## Libs
 - pandas
 - sklearn
 - seaborn
 - matplotlib
 
-# Data
+## Data
 - pima indians diabetes
 - iris
 - imdb
