@@ -1,4 +1,9 @@
 # Machine learning and Data Analysis
+
+## Problems
+- Titanic
+- Image recognizer
+
 ## Libs
 - pandas
 - sklearn
